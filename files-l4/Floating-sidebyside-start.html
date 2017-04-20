@@ -8,10 +8,21 @@
 		body{
 			font-family: roboto;
 		}
+
+		#Container{
+			width: 1012px;
+			color: #999999;
+			margin:0 auto;
+			background-image: url("");
+
+		}
+
 		div{
 					/* Make inline-Block*/
 			 
 			width:500px;
+			display: inline-block;
+			vertical-align: top;
 			margin:0 auto 0 auto;
 			
 			border:2px solid black;
@@ -19,39 +30,90 @@
 
 		}
 		img{
+			display: block;
+			float: left;
+			margin:0 25px 25px 25px;
 			 
 		}
 		#left{
-			 
+			display: block;
+			float: right;
+			margin: 0 25px 25px 25px;
 		}
-		p{
+		#image1{
+			-webkit-filter: invert(100);
+		}
+
+		#image2{
+			 -webkit-filter: invert(100);
+		 }
+
+		#image3{
+			  -webkit-filter: sepia(100);
+		  }
+
+		#image4{
+			   -webkit-filter: grayscale(50);
+		   }
+
+		p{margin-left: auto;
 			
 		}
+			
+			#video1{
+				width: 450px;
+				-webkit-filter: grayscale(100);
+			}
+
+			#audio1{
+				padding: 25px;
+				width auto;
+
+			}
 		
 		</style>
 	</head>
 	<body>
-		<div>
-			<h1>Froggy</h1>
-			 
-			<p>Frogs are cold blooded. That means that the body temperature of a frog is the same on the inside as it is on the outside. That is why frogs need to be near water so that they can jump in and cool off on hot days.</p>
 
-			<p>When frogs hibernate their bones sort of grow a layer, like a tree does. When you look inside a frog’s bone you will be able to see rings and tell how old the frog is by counting the rings.</p>
-			<p>
-			A group of fish is called a school, but a group of frogs is called an army. Do you think that is why army colors are green? A group of people is called a group.</p>
+	<div id="Container">
+
+		<div>
+			<h1>Bunny</h1>
+			
 			
 
+			<p>
+				<video preload="auto" id="video1" controls="controls">
+					<source src="video/MP4_Bunny.mp4#t=45,55" type="video/mp4"/>
+				</video>
+				<audio preload="metadata" id="audio1" controls="controls" autoplay="autoplay" src="audio/tail.mp3" loop="loop">
+					
+				</audio>
+
+			</p>
 		</div>
+
 		<div>
 			<h1>Owl</h1>
 			 
-			<p>Owls have specialized feathers with fringes of varying softness the help muffle sound when they fly. Their broad wings and light bodies also make them nearly silent fliers, which helps them stalk prey more easily.</p>
-
-			<p>An owl has three eyelids: one for blinking, one for sleeping and one for keeping the eye clean and healthy.</p>
-			<p>
-			For most owl species, females are larger, heavier and more aggressive than males. If the birds are dimorphic, the female is often more richly colored than the male.</p>
+			<p><img id="image2" src="img/owl.jpg" alt="Owl	" width="250" height="250"/></p>
 
 		</div>
+
+		<div>
+			<h1>Froggy</h1>
+
+			<p><img id="image3" src="img/frog.jpg" alt="Frog" width="250" height="250"/> </p>
+
+		</div>
+
+		<div>
+			<h1>Owl</h1>
+
+			<p><img id="image4" src="img/owl.jpg" alt="Owl	" width="250" height="250"/></p>
+
+		</div>
+	</div>
 	</body>
 </html>
 

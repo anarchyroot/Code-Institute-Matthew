@@ -14,13 +14,17 @@
             padding-top: 170px;
             width:960px;	/*to center an element it must have a fixed width*/
             border-radius: 10px;
+            background-image: url("maxresdefault.jpg");
+            background-size: contain;
+            text-blink: /* aksjdhaksdha */;
             font-size: 0; /* font-size:0 removes problem spaceing issue for inline-block*/
         }
         .box{
             position: relative;
             box-sizing: border-box;
             width: 100%;
-            background-color: #81BBC9;
+            background-color: #111111;
+            color:#999999;
             /*margin:10px;*/ /*pushing our element out of bounds*/
             margin: 0 0 10px 0;
             border-radius: 10px;
@@ -28,6 +32,8 @@
             font-size: 20px;  /* important to declare font-size here, otherwise will be 0*/
             text-align: center;
             padding: 30px 0;
+            background-size: cover;
+            border-style: solid;
         }
         .sidebar{
             display: inline-block;
@@ -56,12 +62,13 @@
             margin-bottom: 50px;
         }
         #header{
-            position: fixed;
             z-index: 100;
-            top: 0px;
-            left: 0px;
             border-top: double;
             border-bottom:double;
+        }
+        body{
+            background-color: black;
+            background-size: contain;
         }
 
     </style>
@@ -99,6 +106,7 @@
     Now you must recalculate the width for sidebar and content or use border-box.
     Make the sidebar a border-box (see note on vendor prefixes).
     Apply the same to the content</p><img id="linktotop" src="arrow.png">
+
 
 </div><div id="footer" class="box"><h2>Altomare</h2>
 </div>
