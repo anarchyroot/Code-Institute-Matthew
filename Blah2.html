@@ -1,9 +1,13 @@
 <!doctype html>
 <html>
 <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8" />
     <title>Box Model</title>
     <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="resetblah.css">
+    <link rel="stylesheet" type="text/css" href="nav_cssblah.css">
+    <link href="https://fonts.googleapis.com/css?family=League+Script" rel="stylesheet">
     <style type="text/css">
 
         #container
@@ -13,9 +17,10 @@
             margin-left:auto;
             padding-top: 170px;
             width:960px;	/*to center an element it must have a fixed width*/
-            border-radius: 10px;
+            border-radius: 10px;;
             background-image: url("maxresdefault.jpg");
             background-size: contain;
+            border-style: solid;
             text-blink: /* aksjdhaksdha */;
             font-size: 0; /* font-size:0 removes problem spaceing issue for inline-block*/
         }
@@ -23,17 +28,19 @@
             position: relative;
             box-sizing: border-box;
             width: 100%;
-            background-color: #111111;
-            color:#999999;
+            background-color: #009900;
+            color: white;
             /*margin:10px;*/ /*pushing our element out of bounds*/
             margin: 0 0 10px 0;
-            border-radius: 10px;
-            font-family: Roboto;
-            font-size: 20px;  /* important to declare font-size here, otherwise will be 0*/
+            border-radius: 1px;
+            font-family: League Script, cursive;
+            font-style: italic;
+            font-size: 22px;  /* important to declare font-size here, otherwise will be 0*/
             text-align: center;
             padding: 30px 0;
             background-size: cover;
             border-style: solid;
+            border-color: white;
         }
         .sidebar{
             display: inline-block;
@@ -42,6 +49,8 @@
             padding-right: 40px;
             width: 475px;
             margin-right: 5px;
+            border-style: solid;
+            border-width: 1px;
         }
         .content{
             display: inline-block;
@@ -50,6 +59,8 @@
             padding-right: 40px;
             width: 475px;
             margin-left: 5px;
+            border-style: solid;
+            border-width: 1px;
         }
 
         #linktotop{
@@ -63,28 +74,64 @@
         }
         #header{
             z-index: 100;
-            border-top: double;
-            border-bottom:double;
+            border-top: solid;
+            border-bottom:solid;
+            font-size: 30px;
+        }
+        .header{
+            z-index: 100;
+            font-size: 30px;
+            font-family: "Apple Braille";
         }
         body{
             background-color: black;
             background-size: contain;
         }
+        #footer{
+            z-index: 100;
+            border-top: solid;
+            border-bottom:solid;
+            font-size: 30px;
+
+/*        @media screen and (min-width: 400px){
+            p {
+                font-size: 20px;
+            }
+
+            .box {
+                text-align: center;
+                background-color:#111111;
+                border-color: black;
+                color: white;
+            }
+        } */
+
+        @
 
     </style>
 </head>
 <body>
+
+<nav>
+    <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a> </li>
+        <li><a href="#">Portfolio</a> </li>
+        <li><a href="#">Blog</a> </li>
+        <li><a href="#">Contact</a> </li>
+    </ul>
+</nav>
 <div id="container">
 
-    <div id="header" class="box"> <h1>Matthew</h1>
-    </div><div class="box sidebar"><h2>Sidebar</h2><p> lack of padding on the left and right.
+    <div id="header" class="box"> <h1 class="header">Matthew</h1>
+    </div><div class="box sidebar"><h2 class="header">Sidebar</h2><p> L ack of padding on the left and right.
 
     Add padding of 40px to the left and right of the sidebar using longhand notation.
     Now you must recalculate the width for sidebar and content or use border-box.
     Make the sidebar a border-box (see note on vendor prefixes).
     Apply the same to the content</p>
 
-</div><div class="box content"><h2>Content</h2><p> lack of padding on the left and right.
+</div><div class="box content"><h2 class="header">Content</h2><p> L ack of padding on the left and right.
 
     Add padding of 40px to the left and right of the sidebar using longhand notation.
     Now you must recalculate the width for sidebar and content or use border-box.
@@ -93,14 +140,14 @@
 
 </div>
 
-    <div class="box sidebar"><h2>Sidebar</h2><p> lack of padding on the left and right.
+    <div class="box sidebar"><h2 class="header">Sidebar</h2><p> L ack of padding on the left and right.
 
     Add padding of 40px to the left and right of the sidebar using longhand notation.
     Now you must recalculate the width for sidebar and content or use border-box.
     Make the sidebar a border-box (see note on vendor prefixes).
     Apply the same to the content</p>
 
-</div><div class="box content"><h2>Content</h2><p> lack of padding on the left and right.
+</div><div class="box content"><h2 class="header">Content</h2><p> L ack of padding on the left and right.
 
     Add padding of 40px to the left and right of the sidebar using longhand notation.
     Now you must recalculate the width for sidebar and content or use border-box.
@@ -108,7 +155,7 @@
     Apply the same to the content</p><img id="linktotop" src="arrow.png">
 
 
-</div><div id="footer" class="box"><h2>Altomare</h2>
+</div><div id="footer" class="box"><h2 class="header">Altomare</h2>
 </div>
 
 </div>
