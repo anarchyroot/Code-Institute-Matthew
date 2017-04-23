@@ -20,7 +20,6 @@
             border-radius: 10px;;
             background-image: url("maxresdefault.jpg");
             background-size: contain;
-            border-style: solid;
             text-blink: /* aksjdhaksdha */;
             font-size: 0; /* font-size:0 removes problem spaceing issue for inline-block*/
         }
@@ -32,7 +31,7 @@
             color: white;
             /*margin:10px;*/ /*pushing our element out of bounds*/
             margin: 0 0 10px 0;
-            border-radius: 1px;
+            border-radius: 10px;
             font-family: League Script, cursive;
             font-style: italic;
             font-size: 22px;  /* important to declare font-size here, otherwise will be 0*/
@@ -40,7 +39,7 @@
             padding: 30px 0;
             background-size: cover;
             border-style: solid;
-            border-color: white;
+
         }
         .sidebar{
             display: inline-block;
@@ -49,8 +48,8 @@
             padding-right: 40px;
             width: 475px;
             margin-right: 5px;
-            border-style: solid;
-            border-width: 1px;
+            border-style: double;
+            border-width: 5px;
         }
         .content{
             display: inline-block;
@@ -59,8 +58,7 @@
             padding-right: 40px;
             width: 475px;
             margin-left: 5px;
-            border-style: solid;
-            border-width: 1px;
+            border-style: double;
         }
 
         #linktotop{
@@ -68,32 +66,32 @@
             bottom: 0px;
             right: -80px;
         }
+        .spin:hover{
+            transition: all 300s ease;
+            transform: scale(1.5, 1.5)rotate(180000deg);
+        }
 
         p{
             margin-bottom: 50px;
         }
         #header{
             z-index: 100;
-            border-top: solid;
-            border-bottom:solid;
+            border-top: double;
+            border-bottom:double;
+            font-family: "Apple Braille";
             font-size: 30px;
         }
         .header{
             z-index: 100;
-            font-size: 30px;
             font-family: "Apple Braille";
+            font-size: 30px;
         }
         body{
             background-color: black;
             background-size: contain;
         }
-        #footer{
-            z-index: 100;
-            border-top: solid;
-            border-bottom:solid;
-            font-size: 30px;
 
-/*        @media screen and (min-width: 400px){
+        @media screen and (min-width: 400px){
             p {
                 font-size: 20px;
             }
@@ -104,9 +102,7 @@
                 border-color: black;
                 color: white;
             }
-        } */
-
-        @
+        }
 
     </style>
 </head>
@@ -121,15 +117,14 @@
         <li><a href="#">Contact</a> </li>
     </ul>
 </nav>
-<div id="container">
+<div class="spin" id="container">
 
     <div id="header" class="box"> <h1 class="header">Matthew</h1>
     </div><div class="box sidebar"><h2 class="header">Sidebar</h2><p> L ack of padding on the left and right.
 
     Add padding of 40px to the left and right of the sidebar using longhand notation.
     Now you must recalculate the width for sidebar and content or use border-box.
-    Make the sidebar a border-box (see note on vendor prefixes).
-    Apply the same to the content</p>
+    Make the sidebar a border-box (see note on vendor prefixes).</p>
 
 </div><div class="box content"><h2 class="header">Content</h2><p> L ack of padding on the left and right.
 

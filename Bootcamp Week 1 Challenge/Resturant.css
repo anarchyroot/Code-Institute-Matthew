@@ -1,0 +1,236 @@
+container {
+    position: fixed;
+    margin-right: auto; /*center container with margins left & right set to auto*/
+    margin-left: auto;
+    padding-top: 0;
+    width: 100%; /*to center an element it must have a fixed width*/
+    border-radius: 0;
+    background-size: contain;
+    flex-direction: column;
+    flex:1;
+    text-blink: no/* aksjdhaksdha */;
+    font-size: 0;
+}
+
+.box{
+    background-image: url("images/background.jpg");
+    position: relative;
+    box-sizing: border-box;
+    width: 100%;
+    background-color: white;
+    color: black;
+    /*margin:10px;*/ /*pushing our element out of bounds*/
+    margin: 0;
+    border-radius: 10px;
+    font-family: League Script, cursive;
+    font-style: italic;
+    font-size: 22px;  /* important to declare font-size here, otherwise will be 0*/
+    text-align: center;
+    padding: 30px 0;
+    background-size: cover;
+    border-style: solid;
+
+}
+.sidebar{
+    display: inline-block;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+    margin-right: 5px;
+    border-style: double;
+    border-width: 5px;
+}
+.content{
+    display: inline-block;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 100%;
+    margin-left: 5px;
+    border-style: double;
+}
+
+#linktotop{
+    position: absolute;
+    bottom: 0px;
+    right: -80px;
+}
+
+p{
+    margin-bottom: 50px;
+}
+#header{
+    z-index: 100;
+    border-top: double;
+    margin: 10px;
+    border-bottom:double;
+    font-family: "Apple Braille";
+    font-size: 30px;
+    width:100%;
+}
+.header{
+    z-index: 100;
+    font-family: "Apple Braille";
+    font-size: 30px;
+}
+.imgsize{
+    width: 200px;
+    float: left;
+}
+body{
+    background-color: black;
+    background-size: contain;
+    text-align: left;
+}
+
+nav{
+    font-family: roboto;
+    background-color: #eee;
+    margin: 30px auto;
+    width: 100%;
+    /*height:200px;*/
+    display: flex;
+    flex-direction: column;
+    align-items:stretch;
+    border-radius: 10px;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    flex:4;
+    height: 40px;
+    font-family: Dosis;
+    padding: 20px;
+    text-align: center;
+    font-size: 2em;
+    border:1px solid black;
+
+}
+#logoNav{
+    font-size: 2em;
+    font-weight: bold;
+    min-width: 250px;
+    padding-right: 10px;
+}
+
+
+#curry-pic{
+    float: right;
+}
+
+
+#curry-video{
+    width: 320px;
+    height: 240px;
+}
+
+/*@media screen and (max-width: 400px){
+
+    nav{
+
+        justify-content: center;
+        margin: 5px;
+        width:100%;
+        height: 200px;
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+        border-radius: 0;
+        padding:0;
+
+    }
+    a{
+        text-decoration: none;
+        color: #black;
+        margin:0;
+        flex:1;
+        text-align: left;
+        height: 20px;
+        font-family: dosis;
+        padding:0;
+        font-size: 1em;
+        border: 0;
+
+
+    }
+    #logoNav{
+        flex:8;
+        text-align: left;
+        flex-direction: row;
+    }
+
+    nav ul li {
+        display: inline-block;
+        width: 120px;
+        font-size: 20px;
+        border-bottom: none;
+    }
+}*/
+
+@media screen and (min-width: 665px){
+
+    nav{
+
+        justify-content: center;
+        margin: 5px;
+        width:100%;
+        /*height: 200x;*/
+        display: flex;
+        flex:4;
+        flex-direction: row;
+        align-items: baseline;
+        border-radius: 0;
+        padding:0;
+
+    }
+    a{
+        text-decoration: none;
+        color: #000000;
+        margin:0;
+        flex:4;
+        text-align: left;
+        margin-bottom: 40px;
+        font-family: dosis;
+        padding:0;
+        font-size: 1em;
+        border: 0;
+
+
+    }
+    #logoNav{
+        flex:4;
+        text-align: left;
+        flex-direction: row;
+        width: 100px;
+    }
+
+    .sidebar{
+        width: 39%;
+    }
+
+    .content{
+        display: inline-block;
+        position: relative;
+        padding-left: 10px;
+        padding-right: 10px;
+        width: 59%;
+        margin-left: 5px;
+        border-style: double;
+    }
+
+    #curry-video{
+        width: 640px;
+        height: 480px;
+    }
+
+
+}
+
+#logosize{
+    width: 50px;
+    height: 50px;
+}
+

@@ -56,3 +56,16 @@ p::first-line {
 .titles {
     font-family: "Apple Braille";
 }
+
+table {/*applies style to entire table */
+    text-align: center;
+    padding: 5px;
+}
+
+td {/*applies style to inner cells*/
+    border: 1px solid black;
+}
+
+th {
+    background-color: #87CEEB;/*applies background colour to table headers*/
+}
