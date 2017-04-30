@@ -2,150 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc77743b-fe33-4975-aa7d-252da988e7ba" name="Default" comment="Second Commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/CI.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Blah2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootcamp Week 1 Challenge/Bootcamp Week 1 Challenge.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootcamp Week 1 Challenge/Resturant.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootcamp Week 1 Challenge/images/background.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootcamp Week 1 Challenge/images/curry.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootcamp Week 1 Challenge/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootcamp Week 1 Challenge/images/spices.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootcamp Week 1 Challenge/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Bootcamp Week 1 Challenge/video/video.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Building Site Navigation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Challenge four.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Challenge-CSS-Inheritance/Challenge-CSS-Inheritance.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Challenge-CSS-Inheritance/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Challenge-CSS-Inheritance/images/headline.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Challenge-CSS-Inheritance/inheritance.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Challenge1_Start (1).html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Challenge1_Start.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Ex-Full-Layout.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Flexbox.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/New Mockup 1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/New Mockup 2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/New Mockup 3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resturant.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Table Css.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Table Example.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Transformed div sample.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ajshbdkj.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/back.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/back2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blah.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/boxes challenge/boxes_challenge1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/boxes challenge/boxes_challenge2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/boxes challenge/boxes_challenge3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/boxes challenge/boxes_challenge4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/boxes challenge/boxes_challenge5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/boxes challenge/boxes_challenge6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/boxes challenge/boxes_challenge7.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/challenge_one.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l10/UX-Visuals.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l4/Floating-sidebyside-start.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l4/VideoExample-start.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l4/audio/beats.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l4/audio/tail.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l4/gradients.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l4/img/Tiger.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l4/img/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l4/img/back.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l4/img/back2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l4/img/code.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l4/img/elephant.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l4/img/frog.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l4/img/jazzcat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l4/img/owl.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l4/video/MP4_Bunny.mp4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l4/video/OGV_Bunny.ogv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l4/video/WebM_Bunny.webm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l4/video/sub.srt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l4/video/sub.vtt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-1/Lesson5-Challenge-1.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-1/images/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-1/images/10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-1/images/11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-1/images/12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-1/images/13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-1/images/14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-1/images/15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-1/images/16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-1/images/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-1/images/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-1/images/4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-1/images/5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-1/images/6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-1/images/7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-1/images/8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-1/images/9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-1/images/AttributionsImages.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-1/images/bgimg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-1/images/white_texture.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-2/Lesson5-ExtraChallenge2.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-2/images/Gaming.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-2/images/character.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-2/images/character1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-2/images/modelling.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/Lesson5-Challenge-Extra-2/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/animate-header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l5/gradient.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l6/Challenge-1/challenge1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l6/Challenge-1/img/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l6/Challenge-1/img/back.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l6/Challenge-1/img/code.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l6/Extra Challenges/BlurMenu (1).zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l6/Extra Challenges/Margins, Backgrounds, and Borders (In praise of..) (1).zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l6/Extra Challenges/SmoothTransitionsResponsiveLayout (1).zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l6/Extra Challenges/Text Formatting In Action (1).zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l6/img/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l6/img/back.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l6/img/code.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l6/img/jazzcat.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l6/img/owl.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l6/nav_css.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l6/navigation.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l6/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l7/Challenge1/boxes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l7/Challenge5/facebook.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l7/Challenge5/flexbox-nav-challenge.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l7/Challenge5/graphic1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l7/Challenge5/graphic2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l7/Challenge5/graphic3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l7/Challenge5/graphic4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l7/Challenge5/laptop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l7/Challenge5/linkedin.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l7/Challenge5/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l7/Challenge5/twitter.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l7/Walk-Through/img/code-institute.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l7/Walk-Through/walkthrough.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l7/images-social-media/facebook42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l7/images-social-media/instagram42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l7/images-social-media/linkedin42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l7/images-social-media/twitter42.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l8/Challenge1/img/facebook.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l8/Challenge1/img/graphic1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l8/Challenge1/img/graphic2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l8/Challenge1/img/graphic3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l8/Challenge1/img/graphic4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l8/Challenge1/img/laptop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l8/Challenge1/img/linkedin.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l8/Challenge1/img/twitter.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/files-l9/Challenge-Unit9.docx.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/green image.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/maxresdefault.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/nav_cssblah.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/resetblah.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/sample index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/steps-start.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/table.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/walkthrough-boxes-end.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/world.txt" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 1/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 2/files-l15/BootStrap_Panel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 2/files-l15/carousel.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 1/Blah2.html" afterPath="$PROJECT_DIR$/Week 1/Blah2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 2/files-l15/index-start.html" afterPath="$PROJECT_DIR$/Week 2/files-l15/index-start.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -160,8 +22,51 @@
       <file leaf-file-name="index-start.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week 2/files-l15/index-start.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="101" column="18" lean-forward="false" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
+            <state relative-caret-position="387">
+              <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BootStrap_Panel.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 2/files-l15/BootStrap_Panel.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="carousel.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 2/files-l15/carousel.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="67">
+              <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+              <folding>
+                <element signature="e#511#518#1" expanded="true" />
+                <element signature="e#872#879#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Blah2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 1/Blah2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="111" column="5" lean-forward="true" selection-start-line="111" selection-start-column="5" selection-end-line="111" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 1/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -172,8 +77,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -233,6 +138,9 @@
         <option value="$PROJECT_DIR$/files-l7/Challenge5/flexbox-nav-challenge.html" />
         <option value="$PROJECT_DIR$/Bootcamp Week 1 Challenge/Resturant.css" />
         <option value="$PROJECT_DIR$/Files-l11/form-template/form-template.html" />
+        <option value="$PROJECT_DIR$/Week 2/files-l15/BootStrap_Panel.html" />
+        <option value="$PROJECT_DIR$/Week 2/files-l15/carousel.html" />
+        <option value="$PROJECT_DIR$/Week 1/Blah2.html" />
         <option value="$PROJECT_DIR$/Week 2/files-l15/index-start.html" />
       </list>
     </option>
@@ -265,7 +173,114 @@
     <panes>
       <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Week 2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Week 2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="files-l15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Week 2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="files-l15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Week 2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="files-l15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Week 1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -280,6 +295,11 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="SearchEverywhereHistoryKey" value="box&#9;FILE&#9;file:///Users/matthewaltomare/Desktop/HTML/files-l7/Challenge1/boxes.html" />
     <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week 1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -704,7 +724,7 @@
       <workItem from="1493054332493" duration="23000" />
       <workItem from="1493113275407" duration="13509000" />
       <workItem from="1493137191823" duration="8000" />
-      <workItem from="1493194891595" duration="3278000" />
+      <workItem from="1493194891595" duration="17032000" />
     </task>
     <task id="LOCAL-00001" summary="Second Commit">
       <created>1492677237452</created>
@@ -717,7 +737,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113370000" />
+    <option name="totallyTimeSpent" value="127124000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -838,10 +858,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blah.html" />
-    <entry file="file://$USER_HOME$/Downloads/Challenge1_Start (1).html" />
-    <entry file="file://$USER_HOME$/Downloads/Challenge four.html" />
-    <entry file="file://$PROJECT_DIR$/challenge_one.html" />
     <entry file="file://$PROJECT_DIR$/Blah2.html" />
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/styles.css" />
@@ -888,10 +904,45 @@
     <entry file="file://$PROJECT_DIR$/Bootcamp Week 1 Challenge/index.html" />
     <entry file="file://$PROJECT_DIR$/Blah2.html" />
     <entry file="file://$PROJECT_DIR$/Files-l11/form-template/form-template.html" />
+    <entry file="file://$PROJECT_DIR$/Week 2/files-l15/BootStrap_Panel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/files-l15/carousel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+          <folding>
+            <element signature="e#511#518#1" expanded="true" />
+            <element signature="e#872#879#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 1/Blah2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="111" column="5" lean-forward="true" selection-start-line="111" selection-start-column="5" selection-end-line="111" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 1/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Week 2/files-l15/index-start.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="101" column="18" lean-forward="false" selection-start-line="101" selection-start-column="18" selection-end-line="101" selection-end-column="18" />
+        <state relative-caret-position="387">
+          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
           <folding />
         </state>
       </provider>
