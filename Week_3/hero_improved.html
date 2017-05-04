@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script type="text/javascript">
+
+        var Hero = function(theFirstName, theSurname, position, whereILive) {
+        this.firstName = theFirstName;
+        this.secondName = theSurname;
+        this.title = position;
+        this.homeCity = whereILive;
+
+        //inside the class
+        this.getName = function () {
+            return this.firstName + " " + this.secondName;
+        };
+
+        this.getDescription = function () {
+            return this.firstName + " " + this.secondName + ", A.K.A " + this.title + ", protects " + this.homeCity + " from bad guys!";
+        };
+          //still inside the class
+        };
+
+
+
+        var superman = new Hero("Clark", "Kent", "Superman", "Metropolis");
+
+        console.log(superman.getName());
+        console.log(superman.getDescription());
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script type="text/javascript">
+    {
+
+        var Employee = function (theEmployeeID, theFirstName, theMiddleName, theSurname, theSalary) {
+            this.employeeID = theEmployeeID;
+            this.firstName = theFirstName;
+            this.middleName = theMiddleName;
+            this.secondName = theSurname;
+            this.salary = theSalary;
+
+            //inside the class
+            this.getEmployeeID = function () {
+                return "Employee ID: " + this.employeeID
+            };
+
+            this.getFirstName = function () {
+                return "First Name: " + this.firstName
+            };
+
+            this.getMiddleName = function () {
+                return "Middle Name: " + this.middleName
+            };
+
+            this.getSecondName = function () {
+                return "Last Name: " + this.secondName
+            };
+
+            this.getSalary = function () {
+                return "Salary: " + this.salary + " Bonus : " + this.salary * 0.1 + " = " + "Total Income: " + this.salary * 1.1
+            };
+
+            //still inside the class
+        };
+
+        var Developer = function (_id, _firstName, _lastName, _salary, _basicBonus, _progLang) {
+
+            this.base = Employee;
+            this.base(_id, _firstName, _lastName, _salary, _basicBonus);
+            this.progLang = _progLang;
+
+
+            var calcParentSalary = this.calcSalary;
+            this.calcSalary = function () {
+                var codingBonus = .5;
+                var baseSalary = calcParentSalary.call(this);
+                return baseSalary += baseSalary * codingBonus;
+            };
+
+        }
+    }
+
+
+    I AM SO LOST!!!!
+
+
+</script>
+
+</body>
+</html>
