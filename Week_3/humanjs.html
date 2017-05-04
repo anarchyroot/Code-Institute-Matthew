@@ -5,32 +5,7 @@
     <title>Title</title>
 </head>
 <body>
-<script type="text/javascript">
-
-    var Human = function(theFirstName, middleName, surname, age, eyeColor) {
-        this.firstName = theFirstName;
-        this.middle = middleName;
-        this.secondName = surname;
-        this.DOB = age;
-        this.Eyes = eyeColor;
-
-        //inside the class
-        this.getFullName = function () {
-            return this.firstName + " " + this.middle + " " + this.secondName;
-        };
-
-        this.getDescription = function () {
-            return this.firstName + " " + this.middle + " " + this.secondName + ", is " + this.DOB + ", and has " + this.Eyes + " eyes! ";
-        };
-        //still inside the class
-    };
-
-
-
-    var Matt = new Human("Matthew", "Liam", "Altomare", "25 Years Old", "Brown");
-
-    console.log(Matt.getFullName());
-    console.log(Matt.getDescription());w
+<script type="text/javascript" src="human.js">
 
 </script>
 

@@ -7,4 +7,3 @@ helloworld();
     console.log("Hello World!!");
 }
 helloWorld();
-//# sourceMappingURL=hello_world.js.map

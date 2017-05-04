@@ -38,6 +38,7 @@
       <property name="caretWidth" class="java.lang.Integer" />
     </properties>
   </component>
+  <component name="IdProvider" IDEtalkID="52CF7CAB990D228E27F0BBE0B1E96336" />
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
   </component>

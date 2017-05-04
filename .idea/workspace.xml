@@ -2,12 +2,239 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc77743b-fe33-4975-aa7d-252da988e7ba" name="Default" comment="Second Commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 1/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 2/files-l15/BootStrap_Panel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week 2/files-l15/carousel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_3/add_numbers.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_3/hello_world.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Week_3/human.ts" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Stream 1 Project/ShotByMatt.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Stream 1 Project/ShotByMatt.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Stream 1 Project/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Stream 1 Project/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Stream 1 Project/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Stream 1 Project/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/Blah2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/Building Site Navigation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/Challenge four.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/Challenge-CSS-Inheritance/Challenge-CSS-Inheritance.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/Challenge-CSS-Inheritance/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/Challenge-CSS-Inheritance/images/headline.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/Challenge-CSS-Inheritance/inheritance.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/Challenge1_Start (1).html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/Challenge1_Start.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/Ex-Full-Layout.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/Flexbox.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/Table Example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/Transformed div sample.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/ajshbdkj.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/back.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/back2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/blah.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/boxes challenge/boxes_challenge1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/boxes challenge/boxes_challenge2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/boxes challenge/boxes_challenge3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/boxes challenge/boxes_challenge4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/boxes challenge/boxes_challenge5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/boxes challenge/boxes_challenge6.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/boxes challenge/boxes_challenge7.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/challenge_one.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l10/UX-Visuals.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l4/Floating-sidebyside-start.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l4/VideoExample-start.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l4/audio/beats.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l4/audio/tail.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l4/gradients.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l4/img/Tiger.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l4/img/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l4/img/back.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l4/img/back2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l4/img/code.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l4/img/elephant.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l4/img/frog.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l4/img/jazzcat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l4/img/owl.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l4/video/MP4_Bunny.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l4/video/OGV_Bunny.ogv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l4/video/WebM_Bunny.webm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l4/video/sub.srt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l4/video/sub.vtt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-1/Lesson5-Challenge-1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-1/images/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-1/images/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-1/images/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-1/images/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-1/images/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-1/images/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-1/images/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-1/images/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-1/images/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-1/images/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-1/images/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-1/images/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-1/images/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-1/images/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-1/images/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-1/images/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-1/images/AttributionsImages.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-1/images/bgimg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-1/images/white_texture.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-2/Lesson5-ExtraChallenge2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-2/images/Gaming.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-2/images/character.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-2/images/character1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-2/images/modelling.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/Lesson5-Challenge-Extra-2/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/animate-header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l5/gradient.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l7/Challenge1/boxes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l7/Challenge5/facebook.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l7/Challenge5/flexbox-nav-challenge.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l7/Challenge5/graphic1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l7/Challenge5/graphic2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l7/Challenge5/graphic3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l7/Challenge5/graphic4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l7/Challenge5/laptop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l7/Challenge5/linkedin.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l7/Challenge5/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l7/Challenge5/twitter.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l7/Walk-Through/img/code-institute.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l7/Walk-Through/walkthrough.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l7/images-social-media/facebook42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l7/images-social-media/instagram42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l7/images-social-media/linkedin42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l7/images-social-media/twitter42.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/files-l9/Challenge-Unit9.docx.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/green image.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/maxresdefault.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/nav_cssblah.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/resetblah.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/sample index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/steps-start.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/table.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 1/walkthrough-boxes-end.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Bootcamp Week 1 Challenge/Bootcamp Week 1 Challenge.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Bootcamp Week 1 Challenge/Resturant.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Bootcamp Week 1 Challenge/images/background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Bootcamp Week 1 Challenge/images/curry.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Bootcamp Week 1 Challenge/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Bootcamp Week 1 Challenge/images/spices.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Bootcamp Week 1 Challenge/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Bootcamp Week 1 Challenge/video/video.mp4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Files-l11/ChallengesLesson12.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Files-l11/challenge5/forms/css/component.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Files-l11/challenge5/forms/css/default.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Files-l11/challenge5/forms/fonts/bpicons/bpicons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Files-l11/challenge5/forms/fonts/bpicons/bpicons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Files-l11/challenge5/forms/fonts/bpicons/bpicons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Files-l11/challenge5/forms/fonts/bpicons/bpicons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Files-l11/challenge5/forms/fonts/bpicons/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Files-l11/challenge5/forms/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Files-l11/form-template/form-template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/Java.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/New Mockup 1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/New Mockup 2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/New Mockup 3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l15/9ECF3C91-082A-40D0-BB3B-5033DF3787CB.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l15/BootStrap_Panel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l15/CAF59655-58C1-4C26-8236-46274966EE5A.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l15/IMG_0313.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l15/IMG_0314.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l15/bootstrap/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l15/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l15/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l15/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l15/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l15/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l15/bootstrap/css/bootstrap2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l15/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l15/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l15/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l15/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l15/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l15/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l15/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l15/bootstrap/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l15/carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l15/index-start.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l16/bootstrap/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l16/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l16/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l16/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l16/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l16/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l16/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l16/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l16/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l16/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l16/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l16/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l16/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l16/bootstrap/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l16/index-accordion-start.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l16/index-lesson16.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l16/index-start.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l16/tabMenu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l25/challenge-sol-function.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l25/challenge1-sol.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l25/stringex.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l25/student-sol-function.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l25/student-sol.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l6/Challenge-1/challenge1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l6/Challenge-1/img/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l6/Challenge-1/img/back.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l6/Challenge-1/img/code.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l6/Extra Challenges/BlurMenu (1).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l6/Extra Challenges/Margins, Backgrounds, and Borders (In praise of..) (1).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l6/Extra Challenges/SmoothTransitionsResponsiveLayout (1).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l6/Extra Challenges/Text Formatting In Action (1).zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l6/img/arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l6/img/back.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l6/img/code.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l6/img/jazzcat.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l6/img/owl.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l6/nav_css.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l6/navigation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l6/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l8/Challenge1/img/facebook.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l8/Challenge1/img/graphic1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l8/Challenge1/img/graphic2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l8/Challenge1/img/graphic3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l8/Challenge1/img/graphic4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l8/Challenge1/img/laptop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l8/Challenge1/img/linkedin.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/files-l8/Challenge1/img/twitter.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/java2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/jquery-3.2.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/jquery.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/myscript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/profile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 2/world.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/Hero.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/Hero_Challange.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/JavaScript.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/My_Hero.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/TestJS.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/employeejs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/files-l19/Sample Site.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/hello_world.ts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/hero_improved.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Week 3/humanjs.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/matthewaltomare.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/matthewaltomare.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 1/Blah2.html" afterPath="$PROJECT_DIR$/Week 1/Blah2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 2/files-l15/index-start.html" afterPath="$PROJECT_DIR$/Week 2/files-l15/index-start.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week_2/files-l15/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/Week_2/files-l15/bootstrap/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week_2/files-l15/bootstrap/js/npm.js" afterPath="$PROJECT_DIR$/Week_2/files-l15/bootstrap/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week_2/files-l16/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/Week_2/files-l16/bootstrap/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week_2/files-l16/bootstrap/js/npm.js" afterPath="$PROJECT_DIR$/Week_2/files-l16/bootstrap/js/npm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week_2/jquery-3.2.1.js" afterPath="$PROJECT_DIR$/Week_2/jquery-3.2.1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week_2/profile.js" afterPath="$PROJECT_DIR$/Week_2/profile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week_3/My_Hero.html" afterPath="$PROJECT_DIR$/Week_3/My_Hero.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week_3/employeejs.html" afterPath="$PROJECT_DIR$/Week_3/employeejs.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week_3/hello_world.js" afterPath="$PROJECT_DIR$/Week_3/hello_world.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week_3/hello_world.ts" afterPath="$PROJECT_DIR$/Week_3/hello_world.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week_3/humanjs.html" afterPath="$PROJECT_DIR$/Week_3/humanjs.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,68 +244,116 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="CI" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index-start.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week 2/files-l15/index-start.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BootStrap_Panel.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 2/files-l15/BootStrap_Panel.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="carousel.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 2/files-l15/carousel.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="67">
-              <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-              <folding>
-                <element signature="e#511#518#1" expanded="true" />
-                <element signature="e#872#879#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Blah2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 1/Blah2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="111" column="5" lean-forward="true" selection-start-line="111" selection-start-column="5" selection-end-line="111" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 1/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="ShotByMatt.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Stream_1_Project/ShotByMatt.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="195">
+                  <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="BootStrap_Panel.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Week_2/files-l15/BootStrap_Panel.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index-start.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Week_2/files-l15/index-start.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="270">
+                  <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="hello_world.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Week_3/hello_world.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="45">
+                  <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="hello_world.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Week_3/hello_world.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="135">
+                  <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+                  <folding>
+                    <marker date="1493891828000" expanded="true" signature="0:1" ph="//..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="add_numbers.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Week_3/add_numbers.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="165">
+                  <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+                  <folding>
+                    <element signature="n#!!doc;n#addNumbers#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="human.ts" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Week_3/human.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="15">
+                  <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+                  <folding>
+                    <element signature="n#!!doc;n#Human#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="human.ts" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Week_3/human.ts">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="300">
+                  <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+                  <folding>
+                    <element signature="n#!!doc;n#Human#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -93,6 +368,7 @@
       <find>width</find>
       <find>a</find>
       <find>h3</find>
+      <find>powers</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -106,17 +382,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Challenge 1" />
-        <option value="$PROJECT_DIR$/challenge_one.html" />
-        <option value="$PROJECT_DIR$/ajshbdkj.html" />
-        <option value="$PROJECT_DIR$/blah.html" />
-        <option value="$USER_HOME$/Downloads/Challenge1_Start (1).html" />
-        <option value="$USER_HOME$/Downloads/Challenge four.html" />
-        <option value="$PROJECT_DIR$/../Ex-Full-Layout.html" />
-        <option value="$PROJECT_DIR$/walkthrough-boxes-end.html" />
-        <option value="$PROJECT_DIR$/styles.css" />
-        <option value="$PROJECT_DIR$/Challenge-CSS-Inheritance/inheritance.html" />
-        <option value="$PROJECT_DIR$/files-l4/Floating-sidebyside-start.html" />
         <option value="$PROJECT_DIR$/files-l4/gradients.html" />
         <option value="$PROJECT_DIR$/Transformed div sample.html" />
         <option value="$PROJECT_DIR$/Building Site Navigation.html" />
@@ -142,6 +407,32 @@
         <option value="$PROJECT_DIR$/Week 2/files-l15/carousel.html" />
         <option value="$PROJECT_DIR$/Week 1/Blah2.html" />
         <option value="$PROJECT_DIR$/Week 2/files-l15/index-start.html" />
+        <option value="$PROJECT_DIR$/Week 2/files-l15/bootstrap/css/bootstrap2.css" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+        <option value="$PROJECT_DIR$/Week 2/profile.js" />
+        <option value="$PROJECT_DIR$/Week 2/Java.html" />
+        <option value="$PROJECT_DIR$/Week 2/java2.html" />
+        <option value="$PROJECT_DIR$/Week 2/jquery.html" />
+        <option value="$PROJECT_DIR$/Week 2/myscript.js" />
+        <option value="$PROJECT_DIR$/Week 3/ShotByMatt.com.html" />
+        <option value="$PROJECT_DIR$/Week 3/ShotByMatt.css" />
+        <option value="$PROJECT_DIR$/Stream 1 Project/ShotByMattBootStrap.css" />
+        <option value="$PROJECT_DIR$/Stream 1 Project/ShotByMatt.html" />
+        <option value="$PROJECT_DIR$/Stream 1 Project/ShotByMatt.css" />
+        <option value="$PROJECT_DIR$/Week 3/TestJS..js" />
+        <option value="$PROJECT_DIR$/Week 3/TestJS.js" />
+        <option value="$PROJECT_DIR$/Week 3/JavaScript.html" />
+        <option value="$PROJECT_DIR$/Week 3/Hero.html" />
+        <option value="$PROJECT_DIR$/Week 3/Hero_Challange.html" />
+        <option value="$PROJECT_DIR$/Week 3/My_Hero.html" />
+        <option value="$PROJECT_DIR$/Week 3/hero_improved.html" />
+        <option value="$PROJECT_DIR$/Week 3/humanjs.html" />
+        <option value="$PROJECT_DIR$/Week 3/employeejs.html" />
+        <option value="$PROJECT_DIR$/Week 3/hello_world.ts" />
+        <option value="$PROJECT_DIR$/Week_3/hello_world.html" />
+        <option value="$PROJECT_DIR$/Week_3/hello_world.js" />
+        <option value="$PROJECT_DIR$/Week_3/add_numbers.ts" />
+        <option value="$PROJECT_DIR$/Week_3/human.ts" />
       </list>
     </option>
   </component>
@@ -151,9 +442,29 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="width" value="1680" />
     <option name="height" value="1050" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Groovy</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -172,6 +483,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -184,104 +496,9 @@
               <option name="myItemId" value="CI" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week 2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week 2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="files-l15" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week 2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="files-l15" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week 2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="files-l15" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week 1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -291,9 +508,12 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="SearchEverywhereHistoryKey" value="box&#9;FILE&#9;file:///Users/matthewaltomare/Desktop/HTML/files-l7/Challenge1/boxes.html" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
@@ -313,7 +533,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Groovy.groovy_console">
+    <configuration default="false" name="groovy_console" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="" />
+      <setting name="path" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
@@ -554,6 +783,15 @@
       <setting name="depsClasspath" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -610,31 +848,6 @@
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -701,6 +914,14 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Groovy.groovy_console" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Groovy.groovy_console" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -725,6 +946,26 @@
       <workItem from="1493113275407" duration="13509000" />
       <workItem from="1493137191823" duration="8000" />
       <workItem from="1493194891595" duration="17032000" />
+      <workItem from="1493280105730" duration="20000" />
+      <workItem from="1493281043518" duration="93000" />
+      <workItem from="1493281163790" duration="5465000" />
+      <workItem from="1493369304041" duration="1153000" />
+      <workItem from="1493373445756" duration="2668000" />
+      <workItem from="1493382009760" duration="3481000" />
+      <workItem from="1493405388786" duration="236000" />
+      <workItem from="1493536224401" duration="2519000" />
+      <workItem from="1493710832283" duration="1948000" />
+      <workItem from="1493729271336" duration="3974000" />
+      <workItem from="1493739672136" duration="883000" />
+      <workItem from="1493802334094" duration="11955000" />
+      <workItem from="1493885199670" duration="2728000" />
+      <workItem from="1493889417390" duration="30000" />
+      <workItem from="1493889460286" duration="129000" />
+      <workItem from="1493889761264" duration="1400000" />
+      <workItem from="1493892042541" duration="426000" />
+      <workItem from="1493903116546" duration="1032000" />
+      <workItem from="1493904274565" duration="278000" />
+      <workItem from="1493905049686" duration="182000" />
     </task>
     <task id="LOCAL-00001" summary="Second Commit">
       <created>1492677237452</created>
@@ -737,7 +978,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127124000" />
+    <option name="totallyTimeSpent" value="167724000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -750,30 +991,33 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.502442" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.497558" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17155068" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20634921" sideWeight="0.5" order="0" side_tool="true" content_ui="combo" x="673" y="196" width="334" height="657" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -815,6 +1059,15 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Week_3/hello_world.js" />
+        <option value="$PROJECT_DIR$/Week_3/hello_world.js.map" />
+        <option value="$PROJECT_DIR$/Week_3/add_numbers.js" />
+        <option value="$PROJECT_DIR$/Week_3/add_numbers.js.map" />
+        <option value="$PROJECT_DIR$/Week_3/human.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -850,7 +1103,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -858,92 +1113,127 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Blah2.html" />
-    <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$PROJECT_DIR$/styles.css" />
-    <entry file="file://$PROJECT_DIR$/ajshbdkj.html" />
-    <entry file="file://$PROJECT_DIR$/Challenge 1" />
-    <entry file="file://$PROJECT_DIR$/../Ex-Full-Layout.html" />
-    <entry file="file://$PROJECT_DIR$/blah.html" />
-    <entry file="file://$USER_HOME$/Downloads/Challenge1_Start (1).html" />
-    <entry file="file://$USER_HOME$/Downloads/Challenge four.html" />
-    <entry file="file://$PROJECT_DIR$/Challenge-CSS-Inheritance/inheritance.html" />
-    <entry file="file://$PROJECT_DIR$/files-l4/Floating-sidebyside-start.html" />
-    <entry file="file://$PROJECT_DIR$/files-l4/gradients.html" />
-    <entry file="file://$PROJECT_DIR$/nav_css.css" />
-    <entry file="file://$PROJECT_DIR$/files-l6/reset.css" />
-    <entry file="file://$PROJECT_DIR$/files-l6/navigation.html" />
-    <entry file="file://$PROJECT_DIR$/Table Css.css" />
-    <entry file="file://$PROJECT_DIR$/files-l5/animate-header.html" />
-    <entry file="file://$PROJECT_DIR$/Challenge1_Start.html" />
-    <entry file="file://$PROJECT_DIR$/challenge_one.html" />
-    <entry file="file://$PROJECT_DIR$/Ex-Full-Layout.html" />
-    <entry file="file://$PROJECT_DIR$/green image.jpg" />
-    <entry file="file://$PROJECT_DIR$/maxresdefault.jpg" />
-    <entry file="file://$PROJECT_DIR$/scripts.js" />
-    <entry file="file://$PROJECT_DIR$/Table Example.html" />
-    <entry file="file://$PROJECT_DIR$/table.css" />
-    <entry file="file://$PROJECT_DIR$/files-l7/Challenge1/boxes.html" />
-    <entry file="file://$PROJECT_DIR$/files-l7/Walk-Through/walkthrough.html" />
-    <entry file="file://$PROJECT_DIR$/Week one Challenge.html" />
-    <entry file="file://$PROJECT_DIR$/index.html" />
-    <entry file="file://$PROJECT_DIR$/Resturant.css" />
-    <entry file="file://$PROJECT_DIR$/Building Site Navigation.html" />
-    <entry file="file://$PROJECT_DIR$/Transformed div sample.html" />
-    <entry file="file://$PROJECT_DIR$/walkthrough-boxes-end.html" />
-    <entry file="file://$PROJECT_DIR$/Challenge four.html" />
-    <entry file="file://$PROJECT_DIR$/styles.css" />
-    <entry file="file://$PROJECT_DIR$/steps-start.html" />
-    <entry file="file://$PROJECT_DIR$/Challenge1_Start (1).html" />
-    <entry file="file://$PROJECT_DIR$/nav_cssblah.css" />
-    <entry file="file://$PROJECT_DIR$/Flexbox.html" />
-    <entry file="file://$PROJECT_DIR$/resetblah.css" />
-    <entry file="file://$PROJECT_DIR$/files-l7/Challenge5/flexbox-nav-challenge.html" />
-    <entry file="file://$PROJECT_DIR$/Bootcamp Week 1 Challenge/Resturant.css" />
-    <entry file="file://$PROJECT_DIR$/world.txt" />
     <entry file="file://$PROJECT_DIR$/Bootcamp Week 1 Challenge/index.html" />
     <entry file="file://$PROJECT_DIR$/Blah2.html" />
     <entry file="file://$PROJECT_DIR$/Files-l11/form-template/form-template.html" />
-    <entry file="file://$PROJECT_DIR$/Week 2/files-l15/BootStrap_Panel.html">
+    <entry file="file://$PROJECT_DIR$/Week 2/files-l15/carousel.html" />
+    <entry file="file://$PROJECT_DIR$/Week 2/Bootcamp Week 1 Challenge/Resturant.css" />
+    <entry file="file://$PROJECT_DIR$/Week 2/files-l15/index-start.html" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="7" />
+          <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="570" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/files-l15/bootstrap/css/bootstrap2.css" />
+    <entry file="file://$PROJECT_DIR$/Week 2/Bootcamp Week 1 Challenge/index.html" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console_1.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/jquery.html" />
+    <entry file="file://$PROJECT_DIR$/Week 2/jquery-3.2.1.js" />
+    <entry file="file://$PROJECT_DIR$/Week 2/myscript.js" />
+    <entry file="file://$PROJECT_DIR$/Week 2/profile.js" />
+    <entry file="file://$PROJECT_DIR$/Week 2/java2.html" />
+    <entry file="file://$PROJECT_DIR$/Week 3/ShotByMatt.com.html" />
+    <entry file="file://$PROJECT_DIR$/Week 3/ShotByMatt.css" />
+    <entry file="file://$USER_HOME$/Downloads/bootstrap-3.3.7-dist/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/Week 1/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/Stream 1 Project/ShotByMattBootStrap.css" />
+    <entry file="file://$PROJECT_DIR$/Stream 1 Project/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/Stream 1 Project/bootstrap-theme.min.css" />
+    <entry file="file://$PROJECT_DIR$/Stream 1 Project/ShotByMatt.html" />
+    <entry file="file://$PROJECT_DIR$/Week 2/files-l15/BootStrap_Panel.html" />
+    <entry file="file://$PROJECT_DIR$/Week 2/files-l16/index-start.html" />
+    <entry file="file://$PROJECT_DIR$/Stream 1 Project/ShotByMatt.css" />
+    <entry file="file://$PROJECT_DIR$/Week 2/Java.html" />
+    <entry file="file://$PROJECT_DIR$/Week 2/files-l6/navigation.html" />
+    <entry file="file://$PROJECT_DIR$/Week 1/blah.html" />
+    <entry file="file://$PROJECT_DIR$/Week 1/Blah2.html" />
+    <entry file="file://$PROJECT_DIR$/Stream 1 Project/bootstrap-theme.css" />
+    <entry file="file://$PROJECT_DIR$/Stream 1 Project/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/Week 3/TestJS..js" />
+    <entry file="file://$PROJECT_DIR$/Week 3/TestJS.js" />
+    <entry file="file://$PROJECT_DIR$/Week 3/JavaScript.html" />
+    <entry file="file://$PROJECT_DIR$/Week 3/Hero.html" />
+    <entry file="file://$PROJECT_DIR$/Week 3/Hero_Challange.html" />
+    <entry file="file://$PROJECT_DIR$/Week 3/My_Hero.html" />
+    <entry file="file://$PROJECT_DIR$/Week 3/hero_improved.html" />
+    <entry file="file://$PROJECT_DIR$/Week 3/humanjs.html" />
+    <entry file="file://$PROJECT_DIR$/Week 3/employeejs.html" />
+    <entry file="file://$PROJECT_DIR$/Week 3/hello_world.ts" />
+    <entry file="file://$PROJECT_DIR$/Week_3/hello_world.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stream_1_Project/ShotByMatt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/files-l15/carousel.html">
+    <entry file="file://$PROJECT_DIR$/Week_2/files-l15/BootStrap_Panel.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_3/hello_world.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_3/hello_world.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
-            <element signature="e#511#518#1" expanded="true" />
-            <element signature="e#872#879#1" expanded="true" />
+            <marker date="1493891828000" expanded="true" signature="0:1" ph="//..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/Blah2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="111" column="5" lean-forward="true" selection-start-line="111" selection-start-column="5" selection-end-line="111" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/../mathsplus.ie files/index.html" />
+    <entry file="file://$PROJECT_DIR$/Week_3/add_numbers.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+          <caret line="13" column="20" lean-forward="false" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc;n#addNumbers#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week_2/files-l15/index-start.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/files-l15/index-start.html">
+    <entry file="file://$PROJECT_DIR$/Week_3/human.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="300">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#Human#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
